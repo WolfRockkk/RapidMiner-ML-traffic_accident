@@ -50,7 +50,7 @@ This project applies **Decision Trees (DT)** and **K-Nearest Neighbors (KNN)** f
 | Decision Tree Results | KNN Performance |
 |----------------|----------------|
 | ![DT Screenshot](screenshots/decision_tree_results.png) | ![KNN Screenshot](screenshots/knn_results.png) |
-| ![MODEL screenshot] (screenshots/mode.png) | ![PerformanceVector screenshot](screenshots/knn_performance_vector.png)
+| ![MODEL screenshot] (screenshots/model.png) | ![PerformanceVector screenshot](screenshots/knn_performance_vector.png)
 
 ---
 
